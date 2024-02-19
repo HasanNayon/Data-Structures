@@ -1,0 +1,1 @@
+Write a program that prints it from 22To 220Power values of all 2 of the

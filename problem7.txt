@@ -1,0 +1,5 @@
+Problem-7: Give a pseudo-code of the algorithm, to rotate an element of an array in a 
+position, to move the first element to the end of the array,
+As shown on the right.
+2->3->5->7->11->13
+3->5->7->11->13->2

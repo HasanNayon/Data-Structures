@@ -1,0 +1,3 @@
+: Write a method that reverse the sequence of elements in an array. For 
+example, if you call this method 1 4 9 16 9 7 4 9 11 to the following array, the array 
+becomes 11 9 47 9 16 9 4 1.
